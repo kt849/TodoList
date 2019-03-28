@@ -14,4 +14,4 @@ git clone https://github.com/mananapr/YelpRoom
 cd YelpRoom
 ```
 
-Open `index.html`
+Open `index.html` in browser.
