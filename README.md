@@ -6,6 +6,11 @@ A simple todoList made using vanilla JS
 - Search through tasks you have in your TodoList
 - Clear all Todo's
 
+
+![alt text](https://github.com/kt849/TodoList/blob/master/scrot.png)
+
+
+
 ## Usage
 Clone the repo:
 
