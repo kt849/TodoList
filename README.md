@@ -15,8 +15,8 @@ A simple todoList made using vanilla JS
 Clone the repo:
 
 ```
-git clone https://github.com/mananapr/YelpRoom
-cd YelpRoom
+git clone https://github.com/kt849/TodoList
+cd TodoList
 ```
 
 Open `index.html` in browser.
